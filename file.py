@@ -1,3 +1,2 @@
-name=input("whats ur name")
-print("good evening",name)
+print("coding bolt academy")
 
